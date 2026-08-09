@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Galih Satrio Wicaksono 👋</h1>
-<h3 align="center">Scalable System Architect | Full-Stack Web & Mobile Developer</h3>
+<h3 align="center">Full-Stack Web & Mobile Developer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/galihsw" target="_blank">
