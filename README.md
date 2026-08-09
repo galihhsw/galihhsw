@@ -17,9 +17,7 @@
 
 ## 👨‍💻 About Me
 
-I am an Informatics graduate from **Universitas Teknologi Yogyakarta** who thrives at the intersection of scalable backend architecture and modern, utility-driven frontend design. Working confidently across **Laravel, React, and Flutter**, my focus is always on shipping maintainable, production-ready applications. 
-
-Beyond standard web and mobile development, I am constantly pushing my technical boundaries by exploring complex system integrations (like Geohash spatial filtering and Payment Gateways) and modern UI architectures to ensure every product I touch solves real business problems.
+I am an Informatics graduate from **Universitas Teknologi Yogyakarta** who thrives at the intersection of scalable backend architecture and modern, utility-driven frontend design. Working confidently across **Laravel, React, and Flutter**. 
 
 ---
 
