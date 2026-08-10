@@ -5,7 +5,7 @@
   <a href="https://linkedin.com/in/galihsw" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="[ISI_DENGAN_LINK_WEB_PORTOFOLIO_KAMU]" target="_blank">
+  <a href="https://glhsw.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Website-10B981?style=for-the-badge&logo=Google-Earth&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:galihsww@gmail.com">
