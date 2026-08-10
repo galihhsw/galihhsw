@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-I am an Informatics graduate from **Universitas Teknologi Yogyakarta** who thrives at the intersection of scalable backend architecture and modern, utility-driven frontend design. Working confidently across **Laravel, React, and Flutter**. 
+I am an Informatics graduate from **Universitas Teknologi Yogyakarta** who thrives at the intersection of scalable backend architecture and modern utility driven frontend design. Working confidently across **Laravel, React, and Flutter**. 
 
 ---
 
