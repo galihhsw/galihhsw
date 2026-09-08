@@ -42,9 +42,11 @@ I am an Informatics graduate from **Universitas Teknologi Yogyakarta** who thriv
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=galihhsw&theme=dark&hide_border=false" alt="GitHub Streak" />
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=galihhsw&style=flat-square&color=blue" alt="Profile Views" />
+  <a href="https://visitcount.itsvg.in">
+
+    <img src="https://visitcount.itsvg.in/api?id=galihhsw&icon=0&color=0" alt="Profile Views" />
+
+  </a>
+
 </p>
