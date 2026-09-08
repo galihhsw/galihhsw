@@ -37,16 +37,5 @@ I am an Informatics graduate from **Universitas Teknologi Yogyakarta** who thriv
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=galihhsw&show_icons=true&theme=dark&hide_border=false" alt="Galih's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galihhsw&layout=compact&theme=dark&hide_border=false" alt="Top Languages" />
-</p>
-
-<p align="center">
-
-  <a href="https://visitcount.itsvg.in">
-
-    <img src="https://visitcount.itsvg.in/api?id=galihhsw&icon=0&color=0" alt="Profile Views" />
-
-  </a>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=galihhsw&theme=github-compact" alt="GitHub Contribution Graph" />
 </p>
