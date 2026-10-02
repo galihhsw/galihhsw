@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Galih Satrio Wicaksono 👋</h1>
-<h3 align="center">Mobile Developer</h3>
+<h3 align="center">Frontend | Mobile Developer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/galihsw" target="_blank">
@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-I am an Informatics graduate from **Universitas Teknologi Yogyakarta** who thrives at the intersection of scalable backend architecture and modern utility driven frontend design. Working confidently across **Flutter, Laravel, and React**. 
+I am an Informatics graduate from **Universitas Teknologi Yogyakarta** who thrives at the intersection of scalable backend architecture and modern utility-driven frontend design. Working confidently across **Flutter, Laravel, and React**. 
 
 ---
 
